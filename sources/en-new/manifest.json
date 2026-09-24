@@ -1,6 +1,6 @@
 {
   "wiki": "en",
-  "before": "2026-09-24T05:24:34Z",
+  "before": "2026-09-24T05:41:40Z",
   "pages": [
     {
       "title": "Module:languages/data/2",
@@ -538,18 +538,18 @@
       "module": "languages/data/exceptional",
       "file": "languages/data/exceptional.lua",
       "contentmodel": "Scribunto",
-      "revision_id": 92682047,
-      "timestamp": "2026-09-14T04:03:08Z",
-      "revision_url": "https://en.wiktionary.org/w/index.php?oldid=92682047"
+      "revision_id": 92811207,
+      "timestamp": "2026-09-24T05:31:48Z",
+      "revision_url": "https://en.wiktionary.org/w/index.php?oldid=92811207"
     },
     {
       "title": "Module:languages/data/exceptional/extra",
       "module": "languages/data/exceptional/extra",
       "file": "languages/data/exceptional/extra.lua",
       "contentmodel": "Scribunto",
-      "revision_id": 92733354,
-      "timestamp": "2026-09-19T16:59:46Z",
-      "revision_url": "https://en.wiktionary.org/w/index.php?oldid=92733354"
+      "revision_id": 92811212,
+      "timestamp": "2026-09-24T05:32:17Z",
+      "revision_url": "https://en.wiktionary.org/w/index.php?oldid=92811212"
     },
     {
       "title": "Module:languages/data/patterns",

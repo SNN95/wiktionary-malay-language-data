@@ -146,7 +146,7 @@ m["ath-pro"] = {
 }
 
 m["auf-pro"] = {
-	aliases = {"Proto-Arawan", "Proto-Arauan"},
+	aliases = {"Proto-Arawa", "Proto-Arauan"},
 }
 
 m["aus-alu"] = {

@@ -8844,7 +8844,7 @@
     },
     {
       "code": "auf-pro",
-      "before": "\"Proto-Arawa\"",
+      "before": "\"Proto-Arawan\"",
       "after": "\"Arawa Purba\"",
       "english_file": "languages/data/exceptional.lua",
       "malay_file": "languages/data/exceptional.lua"

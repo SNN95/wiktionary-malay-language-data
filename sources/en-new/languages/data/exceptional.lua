@@ -376,7 +376,7 @@ m["ath-pro"] = {
 }
 
 m["auf-pro"] = {
-	"Proto-Arawa",
+	"Proto-Arawan",
 	116773706,
 	"auf",
 	"Latn",
